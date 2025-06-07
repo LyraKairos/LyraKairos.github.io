@@ -1,0 +1,10 @@
+baseURL: 'https://lyrakairos.github.io/'
+languageCode: 'es-es'
+title: 'Lyra Kairos'
+theme: 'quint'
+menu:
+    main:
+        - name: "Home"
+          url: "/"
+          weight: 1
+        
